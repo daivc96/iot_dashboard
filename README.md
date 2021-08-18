@@ -14,6 +14,7 @@ CREATE USER telegraf WITH PASSWORD 'telegraf'
 
 GRANT ALL ON sensors TO telegraf
 
+# Replace host before deploy 
 
 # Sending data using Golang 
 
