@@ -27,3 +27,13 @@ go run mqtt.go
 Access localhost:3000 (admin/admin)
  
 then create the panel as described in the blog 
+
+# Access Node-RED
+
+Access localhost:1880
+
+# Configure Node-RED (MQTT --> Node RED -> InfluxDB)
+
+![image](https://user-images.githubusercontent.com/37267523/132954934-10ae1e30-8afa-4a22-9acf-ab73c78780d4.png)
+
+
